@@ -2,4 +2,4 @@
 
 export CROSS_COMPILE=/usr/bin/aarch64-linux-gnu-   
 export PREFIX=/usr 
-export UNION_PLATFORM=magicmini
+export UNION_PLATFORM=v10

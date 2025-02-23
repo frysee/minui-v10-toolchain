@@ -21,6 +21,7 @@ RUN apt-get -y update && apt-get -y install \
 	libsdl2-dev \
 	libsdl2-image-dev \
 	libsdl2-ttf-dev \
+	libsqlite3-dev \
 	locales \
 	make \
 	rsync \
